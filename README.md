@@ -28,4 +28,8 @@
 
 <!-- Proyecto Destacado -->
 <h2 align="center">MI PROYECTO DESTACADO</h2>
-<a href="https://github.com/davidprospero123/REM-CHAM">![github card](https://github-readme-stats.vercel.app/api/pin/?username=davidprospero123&repo=REM-CHAM&theme=merko)</a>
+<p align="center">
+  <a href="https://github.com/davidprospero123/REM-CHAM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidprospero123&repo=REM-CHAM&theme=merko" width="400"/>
+  </a>
+</p>
