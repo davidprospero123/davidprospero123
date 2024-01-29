@@ -5,7 +5,7 @@
 <p align="center"><img title="Two BLue Vortex " src="https://telegra.ph/file/24a4c7f209e59e40e6334.gif"></p>
 
 <p align="center">
-<img src="https://telegra.ph/file/addf80dc3c8ffd5db8a47.png" alt="The-LoliBot-MD" width="900"/>
+<img src="https://telegra.ph/file/30013be21f3ba468a349a.jpg" alt="Ryusaki" width="900"/>
 </p>
   
 <a href="https://www.youtube.com/channel/UCjS8HOwW6KQpkVmZSa3N2-g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
